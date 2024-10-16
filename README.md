@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiz Nation</h1>
+<p> <img align="center" src="aizenbanner.jpg" /> </p>
 <h3 align="center">A student from Surabaya State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiznation&label=Profile%20views&color=0e75b6&style=flat" alt="faiznation" /> </p>
