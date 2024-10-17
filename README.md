@@ -17,10 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fadly faiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fadly faiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fadly faiz fajarruddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadly faiz fajarruddin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fadly-faiz-fajarruddin-73b81a248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadly faiz fajarruddin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fadly.faiz.716?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadly faiz" height="30" width="40" /></a>
-<a href="https://instagram.com/faiz_natioon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiz_natioon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fadly faiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fadly faiz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/faiz_natioon/profilecard/?igsh=MWZ1YjY5ZnEyNTk1cQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiz_natioon" height="30" width="40" /></a>
+<a href="https://youtube.com/@fadlyfaiz3145?si=U-cCo2WQUxyEf2Gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fadly faiz" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ZbxpEdWH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZbxpEdWH" height="30" width="40" /></a>
 </p>
 
