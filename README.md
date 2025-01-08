@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaizNation](https://github.com/FaizNation)
 
-- 💬 Ask me about **Bleach & MLBB**
+- 💬 Ask me about **Bleach**
 
 - 📫 How to reach me **novaatalagrab@gmail,com**
 
