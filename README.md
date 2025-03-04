@@ -1,5 +1,4 @@
  
-
 <br>
 
 <div align="center">
@@ -31,7 +30,7 @@ Let's connect and build something awesome! 🚀✨
 </table>
 
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
+## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages, Tools and Connect with Me 
 <img align="right" height="150" src="https://i.gifer.com/Z23a.gif"  />
 
 <p align="left">
@@ -81,6 +80,10 @@ Let's connect and build something awesome! 🚀✨
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizNation&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31wzznxnsxtjt5ajz2mrnk3intey&unique=true" alt="Alt text">
+
+</div>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
