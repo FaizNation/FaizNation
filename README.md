@@ -1,11 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyo!+👋+I'm+Faiz+Nation;Welcome+to+my+profile!" alt="Title"></img>
-</div> 
+ 
 
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
+    <img src="https://github.com/FaizNation/FaizNation/blob/main/tong-wei-lofii-n-1-min.gif?raw=true" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyo!+👋+I'm+Faiz+Nation;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
@@ -23,14 +25,14 @@ Let's connect and build something awesome! 🚀✨
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://i.gifer.com/fxk6.gif">
 </td>
 </tr> 
 </table>
 
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
-<img align="right" height="150" src="https://i.gifer.com/3Q85.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/Z23a.gif"  />
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,6 +74,9 @@ Let's connect and build something awesome! 🚀✨
     </td>
   </tr>
 </table>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FaizNation/FaizNation/output/snake.svg" alt="Snake animation" />
+  </p>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizNation&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
@@ -79,6 +84,7 @@ Let's connect and build something awesome! 🚀✨
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizNation/FaizNation/master/assets/github-contribution-grid-snake.svg">
   </picture>
+  
 </p>
