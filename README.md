@@ -1,40 +1,84 @@
-<h1 align="center">Hi 👋, I'm Faiz Nation</h1>
-<p> <img align="center" src="aizenbanner.jpg" /> </p>
-<h3 align="center">A student from Surabaya State University</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyo!+👋+I'm+Faiz+Nation;Welcome+to+my+profile!" alt="Title"></img>
+</div> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faiznation&label=Profile%20views&color=0e75b6&style=flat" alt="faiznation" /> </p>
+<br>
 
-- 🌱 I’m currently learning **Surabaya State University**
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/FaizNation](https://github.com/FaizNation)
+## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
-- 💬 Ask me about **Bleach**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-- 📫 How to reach me **novaatalagrab@gmail,com**
+An `Informatics` student at `Universitas Negeri Surabaya`. 
+I'm passionate about `technology` 💻 & `UI/UX design` 🎨. 
+📍From Karanganyar, Central Java, Indonesia 🇮🇩.
+🎮 In my free time, I enjoy gaming 🕹️ and experimenting with new tech 🔧!
 
-- ⚡ Fun fact **I think I'm lazy**
+Let's connect and build something awesome! 🚀✨
 
-<h3 align="left">Connect with me:</h3>
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</td>
+</tr> 
+</table>
+
+
+## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
+<img align="right" height="150" src="https://i.gifer.com/3Q85.gif"  />
+
 <p align="left">
-<a href="https://codepen.io/fadly faiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fadly faiz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/fadly-faiz-fajarruddin-73b81a248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadly faiz fajarruddin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/fadly.faiz.716?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadly faiz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/faiz_natioon/profilecard/?igsh=MWZ1YjY5ZnEyNTk1cQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiz_natioon" height="30" width="40" /></a>
-<a href="https://youtube.com/@fadlyfaiz3145?si=U-cCo2WQUxyEf2Gw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fadly faiz" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/ZbxpEdWH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZbxpEdWH" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiznation&show_icons=true&locale=en&layout=compact" alt="faiznation" /></p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiznation&show_icons=true&locale=en" alt="faiznation" /></p>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=FaizNation&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+      <br><br>  
+      <img src="https://streak-stats.demolab.com?user=FaizNation&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FaizNation&theme=dracula&hide_border=false&langs_count=10" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizNation&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiznation&" alt="faiznation" /></p>
-
-
-<!---
-FaizNation/FaizNation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YhonV/YhonV/master/assets/github-contribution-grid-snake.svg">
+  </picture>
+</p>
