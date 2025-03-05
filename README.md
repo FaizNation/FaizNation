@@ -30,7 +30,7 @@ Let's connect and build something awesome! 🚀✨
 </table>
 
 
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages, Tools and Connect with Me 
+## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools  
 <img align="right" height="150" src="https://i.gifer.com/Z23a.gif"  />
 
 <p align="left">
