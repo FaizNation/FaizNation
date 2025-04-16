@@ -58,9 +58,7 @@ Let's connect and build something awesome! 🚀✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
  </a>
- <a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
- </a>
+
 </p>
 
 <div align="left">
