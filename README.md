@@ -98,13 +98,13 @@ Let's connect and build something awesome! 🚀✨
 <p align="center">
 <img src="https://raw.githubusercontent.com/FaizNation/FaizNation/output/snake.svg" alt="Snake animation" />
   </p>
-  <div align="center">
+
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizNation/FaizNation/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizNation/FaizNation/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaizNation/FaizNation/output/pacman-contribution-graph.svg">
 </picture>
-  </div>
+
 
 ###
 <div align="center">
