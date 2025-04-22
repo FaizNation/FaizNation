@@ -1,7 +1,4 @@
- 
-<br>
-
-<div align="center">
+ <div align="center">
     <img src="https://github.com/FaizNation/FaizNation/blob/main/tong-wei-lofii-n-1-min.gif?raw=true" />
 </div>
 
