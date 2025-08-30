@@ -1,9 +1,7 @@
- <div align="center">
-    <img src="https://github.com/FaizNation/FaizNation/blob/main/tong-wei-lofii-n-1-min.gif?raw=true" />
-</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyo!+👋+I'm+Faiz+Nation;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyo!+👋+I'm+Faiz+Nation;Welcome+to+my+profile!" alt="Title">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=FaizNation&data=followers,repositories,stars,commits&theme=nautilus" alt="Lemon">
+</img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
@@ -92,6 +90,9 @@ Let's connect and build something awesome! 🚀✨
     </td>
   </tr>
 </table>
+
+<details align="center">
+    <summary>Klik untuk melihat selengkapnya</summary>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FaizNation/FaizNation/output/snake.svg" alt="Snake animation" />
   </p>
@@ -115,3 +116,5 @@ Let's connect and build something awesome! 🚀✨
   </picture>
   
 </p>
+
+</details>
