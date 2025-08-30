@@ -92,7 +92,7 @@ Let's connect and build something awesome! 🚀✨
 </table>
 
 <details align="center">
-    <summary>Klik untuk melihat selengkapnya</summary>
+    <summary>Click Me</summary>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FaizNation/FaizNation/output/snake.svg" alt="Snake animation" />
   </p>
