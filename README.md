@@ -3,6 +3,8 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=FaizNation&data=followers,repositories,stars,commits&theme=nautilus" alt="Lemon">
 </img>
 </div>
+<details align="center">
+    <summary>Click Me</summary>
 
 ## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px"></img> About Me
 
@@ -91,8 +93,6 @@ Let's connect and build something awesome! 🚀✨
   </tr>
 </table>
 
-<details align="center">
-    <summary>Click Me</summary>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FaizNation/FaizNation/output/snake.svg" alt="Snake animation" />
   </p>
@@ -116,5 +116,5 @@ Let's connect and build something awesome! 🚀✨
   </picture>
   
 </p>
-
 </details>
+
