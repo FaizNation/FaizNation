@@ -1,7 +1,7 @@
 ╔──☉︎ 👋 Heyyo, Welcome to my profile  
 │ I'm **Fadly Fais Fajarruddin**  
 │ Informatics Engineering Student at **Surabaya State University**  
-│ Sometimes I use **Arch Linux**, sometimes I use **Windows**,  
+│ Sometimes I use **Arch** btw, and sometimes I use **Windows**,  
 │ More often I use Windows, hehe :v  
 ╚─────────────☉
 
