@@ -1,4 +1,12 @@
-<details align="center">
+╔──☉︎ 👋 Heyyo, Welcome to my profile  
+│ I'm **Fadly Fais Fajarruddin**  
+│ Informatics Engineering Student at **Surabaya State University**  
+│ Sometimes I use **Arch Linux**, sometimes I use **Windows**,  
+│ More often I use Windows, hehe :v  
+╚─────────────☉
+
+
+<!-- <details align="center">
     <summary>Wanna know abt mee?</summary>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyo!+👋+I'm+Faiz+Nation;Welcome+to+my+profile!" alt="Title">
@@ -117,5 +125,5 @@ Let's connect and build something awesome! 🚀✨
   </picture>
   
 </p>
-</details>
+</details> -->
 
