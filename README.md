@@ -1,5 +1,5 @@
 ╔──☉︎ 👋 Heyyo, Welcome to my profile  
-│ I'm **Fadly Fais Fajarruddin**   
+│ I'm **Fadly Faiz**   
 │ Sometimes I use **Arch** btw, and sometimes I use **Windows**,  
 │ More often I use Windows, hehe :v  
 ╚─────────────☉
