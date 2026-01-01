@@ -1,7 +1,6 @@
 ╔──☉︎ 👋 Heyyo, Welcome to my profile  
 │ I'm **Fadly Faiz**   
-│ Sometimes I use **Arch** btw, and sometimes I use **Windows**,  
-│ More often I use Windows, hehe :v  
+│ [ournation.my.id](https://ournation.my.id/)                 
 ╚─────────────☉
 
 
