@@ -1,6 +1,6 @@
 ╔──☉︎ 👋 Heyyo, Welcome to my profile  
 │ I'm **Fadly Faiz**   
-│ [ournation.cloud](https://ournation.cloud/)                 
+│ [ournation.cloud](https://ournation.cloud)                 
 ╚─────────────☉
 
 
