@@ -3,8 +3,6 @@
 │ personal portofolio: [faiznation.dev](https://faiznation.dev)          
 │ personal websites: [ournation.cloud](https://ournation.cloud)    
 ╚─────────────☉
-
-
 <!-- <details align="center">
     <summary>Wanna know abt mee?</summary>
 <div align="center">
