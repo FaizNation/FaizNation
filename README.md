@@ -1,9 +1,10 @@
 ╔──☉︎ 👋 Heyyo, Welcome to my profile  
 │ I'm **Fadly Faiz**   
 │ personal portofolio: [faiznation.dev](https://faiznation.dev)          
-│ personal websites: [ournation.cloud](https://ournation.cloud)    
 ╚─────────────☉
+    
 <!-- <details align="center">
+│ personal websites: [ournation.cloud](https://ournation.cloud)
     <summary>Wanna know abt mee?</summary>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyo!+👋+I'm+Faiz+Nation;Welcome+to+my+profile!" alt="Title">
